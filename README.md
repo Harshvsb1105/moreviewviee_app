@@ -1,6 +1,6 @@
 # moreviewviee_app
 
-A movie review app developed using bloc as a state management and used TMDB API. 
+A movie review app developed using bloc as a state management and used TMDB API. You can watch trailer of the particular movie also.
 
 # Screenshots
 ![Screenshot_1598854907](https://user-images.githubusercontent.com/66870883/91690020-db8dca80-eb82-11ea-898d-2d0d80f24d98.png)
