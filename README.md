@@ -1,6 +1,12 @@
 # moreviewviee_app
 
-A new Flutter application.
+A movie review app developed using bloc as a state management and used TMDB API. 
+
+# Screenshots
+![Screenshot_1598854907](https://user-images.githubusercontent.com/66870883/91690020-db8dca80-eb82-11ea-898d-2d0d80f24d98.png)
+![Screenshot_1598854941](https://user-images.githubusercontent.com/66870883/91690026-dcbef780-eb82-11ea-9b4c-5b7caa3d2742.png)
+![Screenshot_1598854958](https://user-images.githubusercontent.com/66870883/91690033-de88bb00-eb82-11ea-9008-43d1235b4bf8.png)
+
 
 ## Getting Started
 
